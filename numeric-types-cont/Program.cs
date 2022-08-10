@@ -14,7 +14,8 @@ namespace numeric_types_cont
             if (mpg >= 30)
             {
                 Console.WriteLine($"You got {mpg} miles per gallon? Dang is that a hybrid? The savings!");
-            } else
+            }
+            else
             {
                 Console.WriteLine($"You got {mpg} miles per gallon? Keep poisoning the Earth, I'm sure we have another one...");
             }
